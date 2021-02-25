@@ -1,4 +1,6 @@
 # house-price-prediction-ames
+#### credits: https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
+#### https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
 Summary:
 1. Data Reading and EDA
 I have read the data and performed basic EDA to gain insights. Duplicate rows have been checked.Scatterplots for all predictors vs Target variable will show the presence of linearity/non-linearity. Heatmaps show the top correlated features with out target variable. We check for the presence of skewness in these variables and also our target variable. We will later apply log and boxcox transformation on them.
